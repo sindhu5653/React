@@ -1,0 +1,11 @@
+#main{
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  justify-content: center;
+  object-fit: cover;
+}
+
+#main-footer{
+  margin-top: 10px;
+}
