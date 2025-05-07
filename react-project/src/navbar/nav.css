@@ -1,9 +1,7 @@
 header {
     width: 100%;
     background-color: rgb(182, 236, 234);
-    padding: 20px;
-    position: absolute;
-    top: 0;
+    padding: 25px;
 }
 
 header .navbar {
@@ -14,10 +12,10 @@ header .navbar {
 
 header a {
     text-decoration: none;
-    margin-right: 100px;
+    margin-right: 80px;
     letter-spacing: 1px;
     color: rgb(2, 1, 1);
-    font-family: sans-serif;
-    font-size: 15px;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 17px;
 }
 

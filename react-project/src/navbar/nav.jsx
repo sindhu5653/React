@@ -3,7 +3,7 @@ import "./nav.css";
 const Nav=()=>{
     return(
         <header>
-        <div class="navbar">
+        <div className="navbar">
           <a href="#">Logo</a>
         <nav>
             <a href="#">Home</a>
