@@ -3,7 +3,7 @@ import { useState } from 'react';
 function UserProfile() {
   const [name, setName] = useState("Sneha");
   const [age, setAge] = useState(21);
-  const [loggedIn, setLoggedIn] = useState(false);
+  const [loggedIn, setLoggedIn] = useState(true);
 
   return (
     <div>
